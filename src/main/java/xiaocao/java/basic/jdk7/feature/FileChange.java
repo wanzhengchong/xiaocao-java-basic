@@ -10,6 +10,14 @@ import java.nio.file.WatchKey;
 import java.nio.file.WatchService;
 import java.nio.file.WatchEvent.Kind;
 
+/**
+ * 
+ * @ClassName: FileChange 
+ * @Description: 文件监控
+ * @author zhengchong.wan
+ * @date 2019年1月5日 下午11:03:32
+ *
+ */
 public class FileChange {
 	
 	public static void main(String[] args) {
