@@ -1,0 +1,6 @@
+1.switch可以接受string类型而不像以前仅仅整形和枚举
+2.catch可以处理多个异常用|拼接，如：catch (ExceptionOne | ExceptionTwo | ExceptionThree e)
+3.泛型的菱形语法：Map<String, List<Trade>> trades = new TreeMap <> ();  
+4.资源的自动关闭（需要在try里面定义）
+5.数值使用下划线分隔：int million  =  1_000_000 
+6.数值的二进制表示
